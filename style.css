@@ -1,0 +1,49 @@
+html {
+    
+    cursor: url('image/nail2.cur'), auto;
+}
+
+
+body {
+    background-image: url("image/Wallpaper8.png"); 
+    background-size: 100%;
+    background-color: #FFFEFC;
+    background-repeat: no-repeat;
+    font-family: "Century Gothic", sans-serif;
+    color:#3f342f
+}
+
+    
+h1 {
+   color:#333333;
+   text-align:center;
+   font-family: "Century Gothic", sans-serif;
+   font-size: 30px;
+}
+
+p {
+    color:#3f342f;
+    text-align:center;
+    font-family: "Century Gothic", sans-serif;
+    font-size: 17px;
+    margin:0px;
+    word-spacing: 6px;
+}
+
+a:link {
+    color:#3f342f;
+}
+
+a:visited {
+    color:#3f342f;
+}
+
+a:hover {
+    color: #e9a1b9;
+    text-decoration: none;
+    transition: 0.5s;
+}
+
+a {
+    text-decoration: none;
+}
